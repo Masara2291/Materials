@@ -1,6 +1,13 @@
 #ifndef CREATSTAGE_H
 #define CREATSTAGE_H
 
+//====================================================================
+//
+// ステージ制作処理 (CreateStage.h)
+// Author : 東村哲士
+//
+//====================================================================
+
 #include "main.h"
 #include "manager.h"
 #include "mode.h"
